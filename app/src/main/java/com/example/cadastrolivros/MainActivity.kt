@@ -30,6 +30,12 @@ class MainActivity : AppCompatActivity() {
             val NomeLivro = edtNomeLivro.text.toString()
             Toast.makeText(this, "Cadastro Feito", Toast.LENGTH_SHORT).show()
 
+
+
+
+
+
+
         }
     }
 }
